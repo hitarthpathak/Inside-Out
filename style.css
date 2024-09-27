@@ -45,69 +45,69 @@
 
 @keyframes box {
     0% {
-        background-color: aqua;
         top: 0px;
         left: 0px;
+        background-color: aqua;
         color: black;
     }
     10% {
-        background-color: red;
         top: 0;
         left: 80%;
+        background-color: red;
         color: yellow;
     }
     20% {
-        background-color: yellow;
         left: 80%;
         top: 80%;
+        background-color: yellow;
         color: blue;
     }
     30% {
-        background-color: blue;
         left: 0;
         top: 80%;
+        background-color: blue;
         color: red;
     }
     40% {
-        background-color: green;
         left: 0;
         top: 20%;
+        background-color: green;
         color: black;
     }
     50% {
-        background-color: aqua;
         left: 60%;
         top: 20%;
+        background-color: aqua;
         color: yellow;
     }
     60% {
-        background-color: red;
         left: 60%;
         top: 60%;
+        background-color: red;
         color: blue;
     }
     70% {
-        background-color: yellow;
         left: 20%;
         top: 60%;
+        background-color: yellow;
         color: red;
     }
     80% {
-        background-color: blue;
         left: 20%;
         top: 40%;
+        background-color: blue;
         color: black;
     }
     90% {
-        background-color: green;
         left: 40%;
         top: 40%;
+        background-color: green;
         color: yellow;
     }
     100% {
-        background-color: aqua;
         left: 40%;
         top: 40%;
+        background-color: aqua;
         color: blue;
     }
 }
